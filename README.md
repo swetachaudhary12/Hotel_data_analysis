@@ -7,8 +7,5 @@ The objective of this project is to analyze historical data and provide actionab
 
 
 
-Dashboard:
-A comprehensive data visualization dashboard will be created using a suitable tool (Power BI, or Excel). The dashboard will include interactive charts, graphs, and tables to present the analyzed metrics in a visually appealing and easy-to-understand format. It will enable stakeholders to gain quick insights into the hotel's performance.
 
-Conclusion:
-This project aims to provide AtliQ Grands with valuable data-driven insights to support their decision-making process and regain market share and revenue in the luxury/business hotels segment. The findings will be presented in a concise and impactful manner to guide the company towards making strategic and effective choices for its future growth.
+
